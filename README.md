@@ -94,7 +94,7 @@ I enjoy combining strong fundamentals with practical development to create effic
 ## 📫 Let's Connect
 
 * 📧 Email: [antilharsh1981@gmail.com](mailto:your-email@example.com)
-* 🧑‍💻 GitHub: [your-github-profile](https://github.com/HarshAntil2004)
+* 🧑‍💻 GitHub: https://github.com/HarshAntil2004
 
 ---
 
