@@ -12,9 +12,7 @@ I enjoy combining strong fundamentals with practical development to create effic
 ### 🧠 Languages
 
 * Python
-* HTML ( basic )
-* javascript ( basic )
-* CSS ( basic )
+
 
 ### 📚 Libraries & Tools
 
@@ -25,37 +23,24 @@ I enjoy combining strong fundamentals with practical development to create effic
 
 ### 🗄️ Databases
 
-* MongoDB
 * MySQL
 
 ### ⚙️ Tools & Concepts
 
 * Git & GitHub
 * Android Studio
-* DBMS
-* Operating Systems
-* Computer Networks
+
 
 ---
 
 ## 🚀 Advanced Skills
 
 * 🧩 Data Structures & Algorithms (Python)
-* 🤖 Machine Learning
-* ⚡ AI Automation
-* 🧠 250+ Problems Solved on LeetCode
+* Tableau
 
 ---
 
 ## 📌 Projects
-
-### 🏋️‍♂️ Workout App
-
-* Designed and implemented a Workout application with guided exercise routines
-* Integrated countdown timers, voice prompts, and workout history tracking
-* Built intuitive UI/UX for smooth navigation and user engagement
-
----
 
 ### 📈 SVM Based Stock Market Prediction Web App
 
@@ -93,7 +78,7 @@ I enjoy combining strong fundamentals with practical development to create effic
 
 ## 📫 Let's Connect
 
-* 📧 Email: [antilharsh1981@gmail.com](mailto:your-email@example.com)
+* 📧 Email: [harshantil2026@gmail.com](mailto:your-email@example.com)
 * 🧑‍💻 GitHub: https://github.com/HarshAntil2004
 
 ---
