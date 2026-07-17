@@ -103,7 +103,7 @@
 
 **Currency Markets — Self-Initiated Venture** *(2024 – Present)*
 
-For 2+ years I have independently speculated in currency markets — evaluating macroeconomic data, building analytical frameworks, stress-testing assumptions against live outcomes, and documenting findings in structured written reports. Entirely self-managed, without external supervision.
+For 2+ years I have independently speculated in markets — evaluating macroeconomic data, building analytical frameworks, stress-testing assumptions against live outcomes, and documenting findings in structured written reports. Entirely self-managed, without external supervision.
 
 This experience has given me real-world grounding in **financial data analysis**, **evidence-based decision making**, and **resilience under uncertainty** — things you cannot learn from a textbook.
 
