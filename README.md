@@ -73,7 +73,6 @@
 |---|---|---|
 | 🔵 **Deloitte Australia** | Data Analytics & Forensic Technology | Processed 160,000 telemetry readings in Tableau; classified pay-equity scores in Excel into forensic business conclusions |
 | 🟠 **Tata iQ (TCS)** | Data Visualisation | Built Tableau dashboards; delivered a recorded CEO & CMO-level briefing |
-| 🟢 **Wells Fargo** | Software Engineering | Designed an ERD for a financial portfolio system in IntelliJ; published to GitHub |
 
 ---
 
