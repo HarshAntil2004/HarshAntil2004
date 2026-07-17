@@ -5,7 +5,7 @@
   <a href="mailto:harshantil2026@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshantil2026%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/harsh-2004-sonipat/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Gurugram%20%7C%20Delhi%20%7C%20Noida%20%7C%20Remote-brightgreen?style=flat"/>
