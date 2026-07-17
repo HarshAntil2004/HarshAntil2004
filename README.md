@@ -1,102 +1,125 @@
-# 👋 Hi, I'm Harsh!
+<h1 align="center">Hi, I'm Harsh 👋</h1>
+<h3 align="center">Data Analyst · CSE Graduate · NCR, India</h3>
 
-🎓 I'm a Computer Science student passionate about building intuitive web applications and solving real-world problems using technology.
-I enjoy combining strong fundamentals with practical development to create efficient, scalable, and user-focused solutions.
-
-💡 My interests lie in software development, data-driven applications, and emerging fields like Machine Learning and AI automation. I’m continuously learning and improving through hands-on projects and problem-solving.
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-
-* Python
-
-
-### 📚 Libraries & Tools
-
-* Pandas
-* Matplotlib
-* NumPy
-* Flask
-
-### 🗄️ Databases
-
-* MySQL
-
-### ⚙️ Tools & Concepts
-
-* Git & GitHub
-* Android Studio
-
+<p align="center">
+  <a href="mailto:harshantil2026@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshantil2026%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Gurugram%20%7C%20Delhi%20%7C%20Noida%20%7C%20Remote-brightgreen?style=flat"/>
+</p>
 
 ---
 
-## 🚀 Advanced Skills
+## 👨‍💻 About Me
 
-* 🧩 Data Structures & Algorithms (Python)
-* Tableau
-
----
-
-## 📌 Projects
-
-### 📈 SVM Based Stock Market Prediction Web App
-
-* Built an SVM-based model to predict stock price trends using historical data
-* Applied preprocessing and feature engineering (RSI, Moving Average)
-* Tuned and evaluated model performance using cross-validation
+- 🎓 B.Tech in **Computer Science & Engineering** — SRM University, Sonipat (2026)
+- 📊 Passionate about turning raw data into **clear, actionable insights**
+- 💹 2+ years of independent **currency markets research** — self-initiated, self-managed
+- 🔍 Currently seeking **Data Analyst / Business Analyst / Research Analyst** roles in NCR
+- 📬 Reach me at **harshantil2026@gmail.com**
 
 ---
 
-### 🛡️ Content Moderation System
+## 🛠️ Tech Stack
 
-* Developed a backend system using Python and Flask for video processing
-* Used OpenCV to extract frames and integrated AI model for detecting restricted content
-* Automated approval/rejection system to enhance platform safety
+**Languages & Querying**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🔗 Anti Money Laundering (AML) System for Blockchain
+**Libraries**
 
-* Built a blockchain-based AML investigation platform using FastAPI and SQLite
-* Implemented graph-based analysis for transaction flow tracing and risk detection
-* Developed REST APIs and dashboard for risk analysis and SAR generation
-* Optimized async processing for efficient large-scale data handling
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
----
+**Visualisation & Reporting**
 
-## 🌱 Interests
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-* 🎌 Watching Animes & Donghuas
-* 🏏 Sports & Indoor Games
-* 📚 Reading
-* 📈 Stock Market Analysis
+**Tools**
 
----
-
-## 📫 Let's Connect
-
-* 📧 Email: [harshantil2026@gmail.com](mailto:your-email@example.com)
-* 🧑‍💻 GitHub: https://github.com/HarshAntil2004
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 📁 Featured Project
 
+### 🛒 [Customer Shopping Trends — Retail Analytics](https://github.com/HarshAntil2004/YOUR-REPO-LINK)
 
-<!--
-**HarshAntil2004/HarshAntil2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> End-to-end data analytics project on a retail dataset of **3,900 transactions** across 4 product categories.
 
-Here are some ideas to get you started:
+| Step | What I did |
+|------|-----------|
+| 🧹 Data Cleaning | Handled 37 missing Review Rating values via category-wise median imputation in Python (Pandas) |
+| 🗃️ SQL Analysis | Wrote 10 business-focused queries on customer segments, seasonal trends & category revenue |
+| 📊 Dashboard | Built an 8-visual interactive Tableau dashboard with KPIs |
+| 📝 Report | Authored a formal stakeholder report with specific business recommendations |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Finding:** 35% of revenue originated from the loyal customer segment in the clothing category → informed a targeted retention strategy.
+
+`Python` `Pandas` `SQL` `Tableau` `Excel` `GitHub`
+
+---
+
+## 🏢 Industry Experience (Job Simulations)
+
+| Organisation | Simulation | Key Output |
+|---|---|---|
+| 🔵 **Deloitte Australia** | Data Analytics & Forensic Technology | Processed 160,000 telemetry readings in Tableau; classified pay-equity scores in Excel into forensic business conclusions |
+| 🟠 **Tata iQ (TCS)** | Data Visualisation | Built Tableau dashboards; delivered a recorded CEO & CMO-level briefing |
+| 🟢 **Wells Fargo** | Software Engineering | Designed an ERD for a financial portfolio system in IntelliJ; published to GitHub |
+
+---
+
+## 🎓 Academic Projects
+
+**🔗 Blockchain-Based AML Detection System** *(Major Project, 2026)*
+- Analysed simulated blockchain transaction data using rule-based logic
+- Detected **rings, layering patterns**, and generated SAR reports
+- Tools: Python, structured rule logic
+
+**📷 Automated Content Moderation System** *(2025)*
+- Built an image & video classification system using OpenCV
+- Applied structured tagging logic for content categorisation
+
+**📈 Stock Market Prediction Model** *(2024)*
+- Applied ML techniques to historical market data
+- Performed rigorous preprocessing and visual analysis before modelling
+
+---
+
+## 📜 Certifications
+
+- 🏅 **IBM — Python 101 for Data Science** | CognitiveClass.ai | June 2026
+
+---
+
+## 💹 Independent Research
+
+**Currency Markets — Self-Initiated Venture** *(2024 – Present)*
+
+For 2+ years I have independently speculated in currency markets — evaluating macroeconomic data, building analytical frameworks, stress-testing assumptions against live outcomes, and documenting findings in structured written reports. Entirely self-managed, without external supervision.
+
+This experience has given me real-world grounding in **financial data analysis**, **evidence-based decision making**, and **resilience under uncertainty** — things you cannot learn from a textbook.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshAntil2004&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshAntil2004&layout=compact&theme=default&hide_border=true" width="40%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Data is just noise until you ask the right question."</i><br><br>
+  📩 Open to analyst roles in Gurugram · Delhi · Noida · Remote &nbsp;|&nbsp; Available immediately
+</p>
